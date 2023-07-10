@@ -1,0 +1,2 @@
+Discord bot ready
+Listening on port 80
