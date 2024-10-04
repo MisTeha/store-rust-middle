@@ -1,0 +1,11 @@
+{
+    "port": 80,
+    "discordToken": "discordToken",
+    "clientId": "id",
+    "guildId": "id",
+    "vipRoleId": "id",
+    "logChannelId": "id",
+    "rconIp": "ip",
+    "rconPort": 11111,
+    "rconPassword": "parool"
+}
